@@ -1,0 +1,24 @@
+{
+  "name": "clock-app",
+  "version": "1.0.0",
+  "description": "Just fun project to better adapt Node.js and ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funtigr/full-stack-clock.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "clock"
+  ],
+  "author": "funtigr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funtigr/full-stack-clock/issues"
+  },
+  "homepage": "https://github.com/funtigr/full-stack-clock#readme"
+}
